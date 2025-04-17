@@ -15,9 +15,6 @@
 - [Usage](#-usage)
 - [Configuration](#%EF%B8%8F-configuration)
 - [How to get your token (PC & Mobile Devices)](#-how-to-get-your-token-pc--mobile-devices)
-- [Change History](#-change-history)
-- [Contribution](#-contribution)
-- [License](#-license)
 
 ---------------------------------------
 
@@ -114,5 +111,4 @@ Format without nitro (only the emoji): `😀`
 
 You can contact me on Discord:
 
-[Discord](https://discord.gg/QVFAKtTxz9)
-[Telegram](https://t.me/lowhealthgrave)
+[Discord](https://discord.gg/QVFAKtTxz9)  *  [Telegram](https://t.me/lowhealthgrave)
