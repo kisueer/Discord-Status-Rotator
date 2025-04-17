@@ -49,7 +49,6 @@ Use the code with caution. ⚠️
 
 - `text.txt` file containing the states you want to set in Discord, one per line.
 - `emojis.txt` file if you want to add rotating emojis, including nitro emojis.
-- `aboutme.txt` In this file you can rotate your “About me” in each line a new text is rotated (Test).
 
 Nitro format: `name:id`
 
@@ -64,10 +63,6 @@ Format without nitro (only the emoji): `😀`
 - clear_enabled: Enables or disables console clearing after a certain number of status changes.
 - clear_interval: Number of state changes after which the console will be cleared.
 - speed_rotator: Time interval between each state change (in seconds).
-- rotate_hypesquad: Enables or disables HypeSquad rotation.
-- hypesquad_rotation_interval: Time interval between each HypeSquad change (in seconds).
-- rotate_aboutme: Enables or disables About Me rotation.
-- aboutme_rotation_interval: Time interval between each About Me change (in seconds).
 
 ---------------------------------------
 
@@ -115,37 +110,9 @@ Format without nitro (only the emoji): `😀`
 
 ---------------------------------------
 
-### 📃 Change History
-
-```
-(26/12/24)
-  ↗️ - Added "HypeSquad" rotation feature. | [Feature]
-  ↗️ - Added "About Me" rotation feature. (Test) | [Feature]
-  ✅ - Fixed problem with rotation of animated and normal emojis in a 
-  row. | [Error]
-  ✅ - Reduced API requests when verifying the token. | [Improvement]
-(06/04/24)
-  ↗️ - You can now rotate the status (🟢online, ⛔dnd, 🟠idle,      
-  🌑offline). | [Feature]
-(01/04/24)
-  ✅ - Fixed encoding (UTF-8). | [Error]
-(12/03/24)
-  ↗️ - Now you can rotate emojis (including animated emojis   
-  (nitro)). | [Feature]
-```
-
----------------------------------------
-
-### 🤝 Contribution
-If you find any bugs or have any suggestions for improvement, feel free to open an issue or submit a pull request!
-
-
-### 📖 License
-
-This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) license.👀
-
 ### 📞 Contact
 
 You can contact me on Discord:
 
-[![Discord](https://img.shields.io/badge/Discord-relih-blue?logo=discord&logoColor=white)](https://discord.com/users/728460389536235581)
+[Discord](https://discord.gg/QVFAKtTxz9)
+[Telegram](https://t.me/lowhealthgrave)
